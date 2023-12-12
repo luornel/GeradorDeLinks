@@ -3,7 +3,7 @@ import unidecode
 def generate_html_links(year, month, file_names):
 
     html_links = ""
-    base_url = "//www.tjrs.jus.br/static/"
+    base_url = "INSIRA-O-PADRÃO-DA-URL"
 
     for file in file_names:
         file_url = unidecode.unidecode(file).replace(' ', '-')
@@ -23,7 +23,3 @@ html_output = generate_html_links(year, month, file_names)
 print(html_output)
 
 pip install unidecode
-
-pip install pyinstaller
-
-pyinstaller TestePy.py
