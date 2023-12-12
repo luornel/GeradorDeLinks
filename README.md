@@ -35,8 +35,8 @@ Digite o ano: 2023
 Digite o mês: 12
 Digite os nomes dos arquivos, separados por vírgula: Alpha, Beta, Charlie, Delta
 
-<li><a href="PADRÃO URL/2023/12/Alpha.pdf">Alpha</a></li>
-<li><a href="PADRÃO URL/2023/12/Beta.pdf">Beta</a></li>
-<li><a href="PADRÃO URL/2023/12/Charlie.pdf">Charlie</a></li>
-<li><a href="PADRÃO URL/2023/12/Delta.pdf">Delta</a></li>
+<li><a href="PADRÃO-URL/2023/12/Alpha.pdf">Alpha</a></li>
+<li><a href="PADRÃO-URL/2023/12/Beta.pdf">Beta</a></li>
+<li><a href="PADRÃO-URL/2023/12/Charlie.pdf">Charlie</a></li>
+<li><a href="PADRÃO-URL/2023/12/Delta.pdf">Delta</a></li>
 ```
